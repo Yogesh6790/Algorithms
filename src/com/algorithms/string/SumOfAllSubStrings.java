@@ -2,6 +2,7 @@ package com.algorithms.string;
 
 import java.util.Scanner;
 
+// Worst case time complexity : O(n)
 public class SumOfAllSubStrings {
     public static void main(String args[] ) throws Exception {
         Scanner in = new Scanner(System.in);
